@@ -18,7 +18,7 @@ This project focuses on creating a wearable Bluetooth motion controller for gami
   Designed for immersive gameplay, the side buttons, used for shooting, offer haptic feedback using flat coin vibration motors.
 - **Rechargeable Power System:**  
   Includes a 3.7V lithium-ion battery, USB charging, voltage monitors, reverse power protection, and power boosters for safe and efficient operation.
-  - **Bluetooth Communication:**  
+- **Bluetooth Communication:**  
   Transmits game control signals reliably via Bluetooth 5.0.
 
 ## Disclaimer
